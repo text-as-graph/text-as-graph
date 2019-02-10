@@ -1,0 +1,19 @@
+{
+  "name": "text-as-graph",
+  "version": "0.0.1",
+  "description": "A graph-based text format specifically aimed at allowing overlapping text groupings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachsa/text-as-graph.git"
+  },
+  "author": "Zach Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zachsa/text-as-graph/issues"
+  },
+  "homepage": "https://github.com/zachsa/text-as-graph#readme"
+}
