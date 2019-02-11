@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/zachsa/text-as-graph/issues"
   },
-  "homepage": "https://github.com/zachsa/text-as-graph#readme"
+  "homepage": "https://github.com/zachsa/text-as-graph#readme",
+  "devDependencies": {
+    "@types/react": "^16.8.2",
+    "@types/react-dom": "^16.8.0",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "typescript": "^3.3.3"
+  }
 }

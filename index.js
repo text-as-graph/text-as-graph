@@ -1,1 +1,1 @@
-export default package = 'hello world'
+module.exports = 'hello world'
