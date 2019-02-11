@@ -1,6 +1,6 @@
 {
   "name": "text-as-graph",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A graph-based text format specifically aimed at allowing overlapping text groupings",
   "main": "index.js",
   "scripts": {
